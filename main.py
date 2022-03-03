@@ -1,3 +1,12 @@
+'''
+Author: Arjun Pradeep
+Content: Implementation of Kalman Filter from scratch
+
+This code has been inspired from the video lectures on Kalman Filter by Prof Michel van Biezen: https://www.youtube.com/watch?v=CaCcOwJPytQ&list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT&index=1
+and the video lectures of coding Kalman Filter https://www.youtube.com/watch?v=X42HqGthOqs&list=PLvKAPIGzFEr8n7WRx8RptZmC1rXeTzYtA&index=1
+'''
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 from kalman_filter import KalmanFilter
